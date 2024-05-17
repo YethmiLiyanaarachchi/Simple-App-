@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Coffee App</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="tele">Tele No</string>
+    <string name="Himary">Hi mary</string>
+    <string name="Whatwouldyouliketolearnoday">What would you like to\n learn today</string>
+    <string name="Developing">Developing</string>
+    <string name="Designing">Designing</string>
+    <string name="ALandML">AL and ML</string>
+    <string name="Explore">Explore</string>
+    <string name="Popularcourses">Popular Courses</string>
+    <string name="SeeAll">See All</string>
+    <string name="AdvancecerticicationprograminAI">Advance certicication\nprogram in AI</string>
+    <string name="UnlockYourPotentialnOneCourseataTime">Unlock Your Potential,\nOne Course at a Time!</string>
+    <string name="login">Login</string>
+    <string name="let">Let's start</string>
+
+
+</resources>
